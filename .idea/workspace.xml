@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="$ENABLE_FLUTTER_DESKTOP$" id="1fd95daa-3060-4988-aefc-563aaf82f421" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/flutter_demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/flutter_demo.iml.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animation/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animation/.metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animation/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animation/android/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animation/android/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animation/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animation/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animation/android/app/src/main/kotlin/com/azhansy/flutterdemo/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animation/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animation/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animation/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animation/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animation/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animation/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animation/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animation/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animation/android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animation/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animation/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animation/android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animation/ios/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animation/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animation/ios/Flutter/Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animation/ios/Flutter/Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animation/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animation/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animation/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animation/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animation/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animation/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animation/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animation/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animation/ios/Runner/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animation/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animation/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animation/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animation/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animation/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animation/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animation/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animation/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animation/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animation/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animation/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animation/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animation/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animation/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animation/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animation/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animation/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animation/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animation/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animation/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animation/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animation/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animation/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animation/ios/Runner/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animation/ios/Runner/Runner-Bridging-Header.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animation/lib/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animation/pubspec.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animation/pubspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animation/test/widget_test.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/lib/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/pubspec.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/pubspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/route.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/test/widget_test.dart" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="$ENABLE_FLUTTER_DESKTOP$" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="ce041824a273448b0d7e" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ffqcpOYUrK4dXhL8RqleI7NWgE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="$ENABLE_FLUTTER_DESKTOP$" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="$ENABLE_FLUTTER_DESKTOP$" />
+    <option name="showExcludedFiles" value="$ENABLE_FLUTTER_DESKTOP$" />
+    <option name="showLibraryContents" value="$ENABLE_FLUTTER_DESKTOP$" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="$ENABLE_FLUTTER_DESKTOP$" />
+    <property name="android.sdk.path" value="$PROJECT_DIR$/../../sdk" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="$ENABLE_FLUTTER_DESKTOP$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="dart.settings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager" selected="Flutter.animation.dart">
+    <configuration name="animation.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/animation/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="route.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/route/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Flutter.route.dart" />
+      <item itemvalue="Flutter.animation.dart" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="$ENABLE_FLUTTER_DESKTOP$" id="Default" summary="Default task">
+      <changelist id="1fd95daa-3060-4988-aefc-563aaf82f421" name="Default Changelist" comment="" />
+      <created>1596619576451</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596619576451</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="304" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596620092455">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="304" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050/-1920.0.1920.1080@0.0.1680.1050" timestamp="1596620092455" />
+    <state x="577" y="322" key="#com.intellij.ide.util.TreeFileChooserDialog" timestamp="1596620090248">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="577" y="322" key="#com.intellij.ide.util.TreeFileChooserDialog/0.0.1680.1050/-1920.0.1920.1080@0.0.1680.1050" timestamp="1596620090248" />
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom" timestamp="1596621684561">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050/-1920.0.1920.1080@0.0.1680.1050" timestamp="1596621684561" />
+    <state width="1638" height="295" key="GridCell.Tab.0.center" timestamp="1596621684559">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.center/0.0.1680.1050/-1920.0.1920.1080@0.0.1680.1050" timestamp="1596621684559" />
+    <state width="1638" height="295" key="GridCell.Tab.0.left" timestamp="1596621684558">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.left/0.0.1680.1050/-1920.0.1920.1080@0.0.1680.1050" timestamp="1596621684558" />
+    <state width="1638" height="295" key="GridCell.Tab.0.right" timestamp="1596621684560">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.right/0.0.1680.1050/-1920.0.1920.1080@0.0.1680.1050" timestamp="1596621684560" />
+    <state x="341" y="164" key="SettingsEditor" timestamp="1596620036803">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="341" y="164" key="SettingsEditor/0.0.1680.1050/-1920.0.1920.1080@0.0.1680.1050" timestamp="1596620036803" />
+    <state x="492" y="282" width="695" height="486" key="find.popup" timestamp="1596621440492">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="492" y="282" width="695" height="486" key="find.popup/0.0.1680.1050/-1920.0.1920.1080@0.0.1680.1050" timestamp="1596621440492" />
+    <state width="372" height="73" key="javadoc.popup.new" timestamp="1596622180220">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="372" height="73" key="javadoc.popup.new/0.0.1680.1050/-1920.0.1920.1080@0.0.1680.1050" timestamp="1596622180220" />
+  </component>
+</project>
