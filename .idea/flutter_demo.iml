@@ -3,8 +3,6 @@
   <component name="FacetManager">
     <facet type="android" name="Android">
       <configuration>
-        <option name="GEN_FOLDER_RELATIVE_PATH_APT" value="/../../flutter_demo/gen" />
-        <option name="GEN_FOLDER_RELATIVE_PATH_AIDL" value="/../../flutter_demo/gen" />
         <option name="MANIFEST_FILE_RELATIVE_PATH" value="/../../flutter_demo/AndroidManifest.xml" />
         <option name="RES_FOLDER_RELATIVE_PATH" value="/../../flutter_demo/res" />
         <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/../../flutter_demo/assets" />
@@ -18,7 +16,7 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/lib" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/test" isTestSource="$ENABLE_FLUTTER_DESKTOP$" />
-      <sourceFolder url="file://$MODULE_DIR$/gen" isTestSource="false" generated="$ENABLE_FLUTTER_DESKTOP$" />
+      <sourceFolder url="file://$MODULE_DIR$/.idea/gen" isTestSource="false" generated="$ENABLE_FLUTTER_DESKTOP$" />
       <excludeFolder url="file://$MODULE_DIR$/animation/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/animation/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/animation/build" />

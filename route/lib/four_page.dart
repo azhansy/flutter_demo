@@ -9,7 +9,14 @@ import 'first_page.dart';
  * describe:
  *
  */
-class FouthPage extends StatelessWidget {
+class FourPage extends StatelessWidget {
+  static const String routeName = "/FourPage";
+
+
+  final String title;
+
+  FourPage({this.title});
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(

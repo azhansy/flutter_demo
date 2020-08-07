@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
   <component name="ChangeListManager">
     <list default="$ENABLE_FLUTTER_DESKTOP$" id="1fd95daa-3060-4988-aefc-563aaf82f421" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
@@ -10,6 +13,7 @@
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/animation/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/animation/.metadata" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/animation/README.md" afterDir="false" />
@@ -72,10 +76,169 @@
       <change afterPath="$PROJECT_DIR$/animation/pubspec.lock" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/animation/pubspec.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/animation/test/widget_test.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.android/.gradle/5.6.2/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.android/.gradle/5.6.2/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.android/.gradle/5.6.2/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.android/.gradle/5.6.2/fileContent/fileContent.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.android/.gradle/5.6.2/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.android/.gradle/5.6.2/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.android/.gradle/5.6.2/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.android/.gradle/5.6.2/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.android/.gradle/5.6.2/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.android/.gradle/5.6.2/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.android/.gradle/5.6.2/javaCompile/javaCompile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.android/.gradle/5.6.2/javaCompile/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.android/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.android/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.android/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.android/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.android/Flutter/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.android/Flutter/build/.transforms/58335444b8c2e77a4a188497ee90ae34.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.android/Flutter/build/.transforms/b45351ca2f1bf6dc345539f1032821dd.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.android/Flutter/build/.transforms/b45351ca2f1bf6dc345539f1032821dd/full/classes.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.android/Flutter/build/generated/source/buildConfig/debug/com/azhansy/route/BuildConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.android/Flutter/build/intermediates/aapt_friendly_merged_manifests/debug/aapt/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.android/Flutter/build/intermediates/aapt_friendly_merged_manifests/debug/aapt/output.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.android/Flutter/build/intermediates/annotation_processor_list/debug/annotationProcessors.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.android/Flutter/build/intermediates/annotations_typedef_file/debug/extractDebugAnnotations/typedefs.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.android/Flutter/build/intermediates/compile_library_classes/debug/classes.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.android/Flutter/build/intermediates/compile_only_not_namespaced_r_class_jar/debug/R.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.android/Flutter/build/intermediates/flutter/debug/flutter_assets/AssetManifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.android/Flutter/build/intermediates/flutter/debug/flutter_assets/FontManifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.android/Flutter/build/intermediates/flutter/debug/flutter_assets/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.android/Flutter/build/intermediates/flutter/debug/flutter_assets/fonts/MaterialIcons-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.android/Flutter/build/intermediates/flutter/debug/flutter_assets/isolate_snapshot_data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.android/Flutter/build/intermediates/flutter/debug/flutter_assets/kernel_blob.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.android/Flutter/build/intermediates/flutter/debug/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.android/Flutter/build/intermediates/flutter/debug/flutter_assets/vm_snapshot_data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.android/Flutter/build/intermediates/flutter/debug/flutter_build.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.android/Flutter/build/intermediates/flutter/debug/libs.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.android/Flutter/build/intermediates/full_jar/debug/createFullJarDebug/full.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.android/Flutter/build/intermediates/incremental/debug-mergeJavaRes/merge-state" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.android/Flutter/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/EC7YoOnROvFastqkMmoyzqufLTw=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.android/Flutter/build/intermediates/incremental/debug-mergeNativeLibs/merge-state" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.android/Flutter/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.android/Flutter/build/intermediates/incremental/mergeDebugShaders/merger.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.android/Flutter/build/intermediates/incremental/packageDebugAssets/merger.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.android/Flutter/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.android/Flutter/build/intermediates/incremental/packageDebugResources/merger.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.android/Flutter/build/intermediates/library_assets/debug/out/flutter_assets/AssetManifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.android/Flutter/build/intermediates/library_assets/debug/out/flutter_assets/FontManifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.android/Flutter/build/intermediates/library_assets/debug/out/flutter_assets/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.android/Flutter/build/intermediates/library_assets/debug/out/flutter_assets/fonts/MaterialIcons-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.android/Flutter/build/intermediates/library_assets/debug/out/flutter_assets/isolate_snapshot_data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.android/Flutter/build/intermediates/library_assets/debug/out/flutter_assets/kernel_blob.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.android/Flutter/build/intermediates/library_assets/debug/out/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.android/Flutter/build/intermediates/library_assets/debug/out/flutter_assets/vm_snapshot_data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.android/Flutter/build/intermediates/library_java_res/debug/res.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.android/Flutter/build/intermediates/library_manifest/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.android/Flutter/build/intermediates/local_only_symbol_list/debug/parseDebugLibraryResources/R-def.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.android/Flutter/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.android/Flutter/build/intermediates/merged_java_res/debug/out.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.android/Flutter/build/intermediates/merged_manifests/debug/output.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.android/Flutter/build/intermediates/packaged-classes/debug/classes.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.android/Flutter/build/intermediates/packaged-classes/debug/libs/libs.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.android/Flutter/build/intermediates/res/symbol-table-with-package/debug/package-aware-r.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.android/Flutter/build/intermediates/runtime_library_classes/debug/classes.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.android/Flutter/build/intermediates/symbols/debug/R.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.android/Flutter/build/outputs/aar/flutter-debug.aar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.android/Flutter/build/outputs/logs/manifest-merger-debug-report.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.android/Flutter/build/tmp/packLibsflutterBuildDebug/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.android/Flutter/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.android/Flutter/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.android/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.android/app/src/main/java/com/azhansy/route/host/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.android/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.android/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.android/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.android/include_flutter.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.android/local.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.android/settings.gradle" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/route/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.ios/Config/Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.ios/Config/Flutter.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.ios/Config/Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.ios/Flutter/FlutterPluginRegistrant/Classes/GeneratedPluginRegistrant.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.ios/Flutter/FlutterPluginRegistrant/Classes/GeneratedPluginRegistrant.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.ios/Flutter/FlutterPluginRegistrant/FlutterPluginRegistrant.podspec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.ios/Flutter/Generated.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.ios/Flutter/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.ios/Flutter/engine/Flutter.framework/Flutter" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.ios/Flutter/engine/Flutter.framework/Headers/Flutter.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.ios/Flutter/engine/Flutter.framework/Headers/FlutterAppDelegate.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.ios/Flutter/engine/Flutter.framework/Headers/FlutterBinaryMessenger.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.ios/Flutter/engine/Flutter.framework/Headers/FlutterCallbackCache.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.ios/Flutter/engine/Flutter.framework/Headers/FlutterChannels.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.ios/Flutter/engine/Flutter.framework/Headers/FlutterCodecs.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.ios/Flutter/engine/Flutter.framework/Headers/FlutterDartProject.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.ios/Flutter/engine/Flutter.framework/Headers/FlutterEngine.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.ios/Flutter/engine/Flutter.framework/Headers/FlutterHeadlessDartRunner.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.ios/Flutter/engine/Flutter.framework/Headers/FlutterMacros.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.ios/Flutter/engine/Flutter.framework/Headers/FlutterPlatformViews.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.ios/Flutter/engine/Flutter.framework/Headers/FlutterPlugin.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.ios/Flutter/engine/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.ios/Flutter/engine/Flutter.framework/Headers/FlutterTexture.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.ios/Flutter/engine/Flutter.framework/Headers/FlutterViewController.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.ios/Flutter/engine/Flutter.framework/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.ios/Flutter/engine/Flutter.framework/Modules/module.modulemap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.ios/Flutter/engine/Flutter.framework/_CodeSignature/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.ios/Flutter/engine/Flutter.framework/icudtl.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.ios/Flutter/engine/Flutter.podspec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.ios/Flutter/flutter_export_environment.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.ios/Flutter/podhelper.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.ios/Flutter/route.podspec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.ios/Runner/AppDelegate.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.ios/Runner/AppDelegate.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.ios/Runner/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.ios/Runner/main.m" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/route/.metadata" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/route/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/lib/first_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/lib/four_page.dart" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/route/lib/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/lib/route_manifest.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/lib/route_test.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/lib/second_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/lib/third_page.dart" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/route/pubspec.lock" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/route/pubspec.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/route/route.iml" afterDir="false" />
@@ -88,11 +251,21 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="ce041824a273448b0d7e" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+        <option value="stateless_widget" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ffqcpOYUrK4dXhL8RqleI7NWgE" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="$ENABLE_FLUTTER_DESKTOP$" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="$ENABLE_FLUTTER_DESKTOP$">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="$ENABLE_FLUTTER_DESKTOP$" />
     <option name="showExcludedFiles" value="$ENABLE_FLUTTER_DESKTOP$" />
@@ -106,6 +279,12 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="dart.settings" />
     <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/route/lib" />
+    </key>
   </component>
   <component name="RunManager" selected="Flutter.animation.dart">
     <configuration name="animation.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
@@ -139,37 +318,53 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="304" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050/-1920.0.1920.1080@0.0.1680.1050" timestamp="1596620092455" />
+    <state x="653" y="248" key="#com.intellij.ide.util.MemberChooser" timestamp="1596699793554">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="653" y="248" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050/-1920.0.1920.1080@0.0.1680.1050" timestamp="1596699793554" />
     <state x="577" y="322" key="#com.intellij.ide.util.TreeFileChooserDialog" timestamp="1596620090248">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="577" y="322" key="#com.intellij.ide.util.TreeFileChooserDialog/0.0.1680.1050/-1920.0.1920.1080@0.0.1680.1050" timestamp="1596620090248" />
-    <state width="1638" height="295" key="GridCell.Tab.0.bottom" timestamp="1596621684561">
+    <state x="457" y="126" key="CommitChangelistDialog2" timestamp="1596775538977">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050/-1920.0.1920.1080@0.0.1680.1050" timestamp="1596621684561" />
-    <state width="1638" height="295" key="GridCell.Tab.0.center" timestamp="1596621684559">
+    <state x="457" y="126" key="CommitChangelistDialog2/0.0.1680.1050/-1920.0.1920.1080@0.0.1680.1050" timestamp="1596775538977" />
+    <state x="168" y="94" key="DiffContextDialog" timestamp="1596775538908">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="295" key="GridCell.Tab.0.center/0.0.1680.1050/-1920.0.1920.1080@0.0.1680.1050" timestamp="1596621684559" />
-    <state width="1638" height="295" key="GridCell.Tab.0.left" timestamp="1596621684558">
+    <state x="168" y="94" key="DiffContextDialog/0.0.1680.1050/-1920.0.1920.1080@0.0.1680.1050" timestamp="1596775538908" />
+    <state width="1638" height="319" key="GridCell.Tab.0.bottom" timestamp="1596775365577">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="295" key="GridCell.Tab.0.left/0.0.1680.1050/-1920.0.1920.1080@0.0.1680.1050" timestamp="1596621684558" />
-    <state width="1638" height="295" key="GridCell.Tab.0.right" timestamp="1596621684560">
+    <state width="1638" height="319" key="GridCell.Tab.0.bottom/0.0.1680.1050/-1920.0.1920.1080@0.0.1680.1050" timestamp="1596775365577" />
+    <state width="1638" height="319" key="GridCell.Tab.0.center" timestamp="1596775365575">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="295" key="GridCell.Tab.0.right/0.0.1680.1050/-1920.0.1920.1080@0.0.1680.1050" timestamp="1596621684560" />
+    <state width="1638" height="319" key="GridCell.Tab.0.center/0.0.1680.1050/-1920.0.1920.1080@0.0.1680.1050" timestamp="1596775365575" />
+    <state width="1638" height="319" key="GridCell.Tab.0.left" timestamp="1596775365573">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="319" key="GridCell.Tab.0.left/0.0.1680.1050/-1920.0.1920.1080@0.0.1680.1050" timestamp="1596775365573" />
+    <state width="1638" height="319" key="GridCell.Tab.0.right" timestamp="1596775365576">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="319" key="GridCell.Tab.0.right/0.0.1680.1050/-1920.0.1920.1080@0.0.1680.1050" timestamp="1596775365576" />
     <state x="341" y="164" key="SettingsEditor" timestamp="1596620036803">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="341" y="164" key="SettingsEditor/0.0.1680.1050/-1920.0.1920.1080@0.0.1680.1050" timestamp="1596620036803" />
-    <state x="492" y="282" width="695" height="486" key="find.popup" timestamp="1596621440492">
+    <state x="492" y="282" width="695" height="486" key="find.popup" timestamp="1596771112875">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="492" y="282" width="695" height="486" key="find.popup/0.0.1680.1050/-1920.0.1920.1080@0.0.1680.1050" timestamp="1596621440492" />
-    <state width="372" height="73" key="javadoc.popup.new" timestamp="1596622180220">
+    <state x="492" y="282" width="695" height="486" key="find.popup/0.0.1680.1050/-1920.0.1920.1080@0.0.1680.1050" timestamp="1596771112875" />
+    <state width="372" height="73" key="javadoc.popup.new" timestamp="1596700684305">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="372" height="73" key="javadoc.popup.new/0.0.1680.1050/-1920.0.1920.1080@0.0.1680.1050" timestamp="1596622180220" />
+    <state width="372" height="73" key="javadoc.popup.new/0.0.1680.1050/-1920.0.1920.1080@0.0.1680.1050" timestamp="1596700684305" />
+    <state x="505" y="187" width="670" height="676" key="search.everywhere.popup" timestamp="1596687899653">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="505" y="187" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050/-1920.0.1920.1080@0.0.1680.1050" timestamp="1596687899653" />
   </component>
 </project>
